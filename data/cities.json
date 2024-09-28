@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "40fc",
+      "cityName": "As Sanţah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-24T14:00:31.972Z",
+      "notes": "",
+      "position": {
+        "lat": "30.727399097727726",
+        "lng": "31.119767983068492"
+      }
+    },
+    {
+      "id": "3f55",
+      "cityName": "Hijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T11:18:41.279Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.1963185235661",
+        "lng": "-0.6166421493607445"
+      }
+    },
+    {
+      "id": "fe74",
+      "cityName": "Langa del Castillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T11:18:55.445Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.213362826261665",
+        "lng": "-1.4293819998411883"
+      }
+    },
+    {
+      "id": "9de6",
+      "cityName": "Murzuk",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-09-25T19:38:03.472Z",
+      "notes": "",
+      "position": {
+        "lat": "25.89630361738111",
+        "lng": "14.501953125000002"
+      }
+    }
+  ]
+}
