@@ -1,6 +1,6 @@
 # WorldWise
 
-WorldWise is a modern, professional React application built with Vite that allows users to explore cities and countries with interactive maps and detailed information. It features user authentication, dynamic routing, and a clean, responsive UI.
+WorldWise is a modern, professional React application built with Vite that allows users to explore cities and countries with interactive maps and detailed information. It features user authentication, dynamic routing, and a clean, responsive UI. 
 
 ## Features
 
