@@ -17,10 +17,6 @@ WorldWise is a modern, professional React application built with Vite that allow
 
 - React 18
 - Vite (build tool)
-
-https://github.com/user-attachments/assets/8b553089-fde3-4982-b5c9-e55d26b63af5
-
-
 - React Router DOM (routing)
 - Leaflet & React-Leaflet (maps)
 - React Datepicker (date selection)
@@ -95,3 +91,7 @@ data/               # JSON data files (cities.json)
 
 
 Thank you for checking out WorldWise!
+
+
+https://github.com/user-attachments/assets/8b553089-fde3-4982-b5c9-e55d26b63af5
+
